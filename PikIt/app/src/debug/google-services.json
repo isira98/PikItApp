@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "662694931020",
+    "project_id": "pikit-164514"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662694931020:android:273bdd8136df0488",
+        "android_client_info": {
+          "package_name": "com.example.athyab.pikit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662694931020-so2ff8isutbr1sf3s7ln9v45rsgdvscg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.athyab.pikit",
+            "certificate_hash": "e890a112ee82d56ae7a4214eb2985d0ed03ce3de"
+          }
+        },
+        {
+          "client_id": "662694931020-8858ptove5gi1kf5n844n954nc0ccksq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFoP5DXwhSahGB_hohpURq8iAQXarMEVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-97362258-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
